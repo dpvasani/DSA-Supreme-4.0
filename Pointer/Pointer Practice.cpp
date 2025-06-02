@@ -3,7 +3,7 @@
 using namespace std;
 
 // ✅ MCQ 01 : What Will Be The Output?
-// Pointer Pracice
+// Pointer Practice
 int main() {
   float f = 10.5;
   float p = 2.5;
