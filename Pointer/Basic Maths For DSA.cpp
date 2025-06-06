@@ -6,21 +6,21 @@ using namespace std;
 int main() {
   // Basic Maths For DSA
   // Prime Number
-  // 1. Native Approch -> O(n^2)
-  // 2. sqrt Approch  -> O(n*n^(1/2))
-  // 3. Sieve Of Eratosthenes Approch -> O(n*loglogn)
-  // 4. Segmented Sieve Approch -> O(n*loglogn)
+  // 1. Native Approach -> O(n^2)
+  // 2. sqrt Approach  -> O(n*n^(1/2))
+  // 3. Sieve Of Eratosthenes Approach -> O(n*loglogn)
+  // 4. Segmented Sieve Approach -> O(n*loglogn)
   // 1 Is Not Prime
   // Smallest Prime Numer Is 2
 
   // GCD/HCF
-  // Euclid Algorithem To Find GCD
+  // Euclid Algorithm To Find GCD
   // gcd(a,b) = gcd(a%b,b) or gcd(a-b,b)
   // LCM(a,b)*gcd(a,b) = a*b
 
   // Modulo Arithmetic
   // 1. (a%n) -> [0,n-1]
-  // 2. Generally To Avoid Overflow While Storing Into Intger We Do Modulo With
+  // 2. Generally To Avoid Overflow While Storing Into Integer We Do Modulo With
   // A Large Number
   // 1. (a + b) % n = (a % n + b % n)
   // 2. (a * b) % n = (a % n * b % n)

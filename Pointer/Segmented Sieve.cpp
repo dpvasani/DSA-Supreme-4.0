@@ -52,7 +52,7 @@ int main() {
 
   // Step 2 :
   // Find First Index To Start Marking
-  // Index 0 -> Resemble Frist Prime
+  // Index 0 -> Resemble First Prime
   // Normal Sieve -> j = i * i
   // Here -> j = First Multiple, or prime * prime
 
